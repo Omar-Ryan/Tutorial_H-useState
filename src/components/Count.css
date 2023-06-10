@@ -1,0 +1,27 @@
+.count-content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.b-reset {
+  margin-top: 10px;
+}
+.b-reset:hover {
+  background-color: red;
+  color: white;
+}
+button {
+  padding: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  border-inline-style: none;
+  border: 1px solid #a5a5a5;
+  border-radius: 5px;
+}
+button:not(.b-reset):hover {
+  background-color: #61dafb;
+}
+.redColor {
+  color: red;
+}
