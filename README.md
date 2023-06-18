@@ -1,4 +1,6 @@
-The project is a react hooks (useState) application
+## The project is a react hooks (useState) application
+## Added some examples and using Axios in HTTP client.
+Axios provides a simple to use library in a small package with a very extensible interface
 
 # Getting Started with Create React App
 
